@@ -5,11 +5,15 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
  - Custom 0 ping terminal GUI <br>
  - i4 Helper <br>
  - Tick Timers <br>
- - Blood Helper <br>
+ - Blood Camp Helper <br>
  - Party Commands <br>
  - Auto Kick <br>
  - SBE Blood Fix <br>
  - Auto pearl refiller
+ - Location Messages
+ - Tick Timers
+ - Location Notifiers
+ - Core/EE2/EE3/I4 waypoints and helpers
  and more!
 
 
