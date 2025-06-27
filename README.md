@@ -25,6 +25,7 @@ Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 Download the latest release from this repo
 
 Unzip (extract) the .zip file into the ChatTriggers modules folder as you would for any other module.
+The modules folder is located at /config/ChatTriggers/modules
 
 Reload your modules in game (/ct reload) and then type /valley in chat.
 
